@@ -7,4 +7,5 @@ dependencies:
   - numpy
   - ipywidgets
   - ipympl
+  - jupyter_contrib_nbextensions
   
